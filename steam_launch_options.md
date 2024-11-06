@@ -1,4 +1,4 @@
-Notes From Repo: https://github.com/laosmidas/dill-win-dots
+Notes From Repo: https://github.com/laosmidas/win-glaze-dots
 
 ### before running launch option set a custom resolutions.
 
