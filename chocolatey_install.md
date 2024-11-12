@@ -1,3 +1,5 @@
+Notes From Repo: https://github.com/laosmidas/win-glaze-dots
+
 ### check restrictions
 `Get-ExecutionPolicy`
 
