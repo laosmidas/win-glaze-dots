@@ -12,3 +12,6 @@
 
 ![Communication_Do_nothing](https://raw.githubusercontent.com/laosmidas/win-glaze-dots/refs/heads/main/ScreenShots_For_Guides/Windows_Settings/Communication_Do_nothing.png)
 
+![amd_control_panel_custom_res](https://raw.githubusercontent.com/laosmidas/win-glaze-dots/refs/heads/main/ScreenShots_For_Guides/Windows_Settings/amd_control_panel_custom_res.png)
+
+![startup_apps](https://raw.githubusercontent.com/laosmidas/win-glaze-dots/refs/heads/main/ScreenShots_For_Guides/Windows_Settings/startup_apps.png)
