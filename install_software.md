@@ -96,7 +96,7 @@ scoop install extras/feishin logitech-omm msiafterburner rtss vesktop
 scoop bucket add laosmidas https://github.com/laosmidas/win-glaze-dots
 ```
 
-### install glazewm from this git
+### install glazewm from my git
 ```powershell
 scoop install laosmidas/glazewm
 ```
