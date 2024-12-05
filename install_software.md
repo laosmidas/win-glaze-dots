@@ -102,8 +102,14 @@ scoop install extras/feishin logitech-omm msiafterburner rtss vesktop
 scoop bucket add laosmidas https://github.com/laosmidas/win-glaze-dots
 ```
 
+### install glazewm-np using scoop
+#### `installed in %ProgramFiles% so uiACCESS is avaliable!`
+```powershell
+scoop install laosmidas/glazewm-np
+```
+
 ### install glazewm using scoop
-#### FYI: `not installed in %ProgramFiles% so uiACCESS is unavaliable` ~ `In other words elevated windows cannot be interacted with` ~ `Use Chocolatey or WinGet instead if you require these permissions`
+#### `not installed in %ProgramFiles% so uiACCESS is unavaliable`
 ```powershell
 scoop install laosmidas/glazewm
 ```
