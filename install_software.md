@@ -149,8 +149,6 @@ scoop install nonportable/equalizer-apo-np
 
 [How to install werman noise-suppression!](https://github.com/laosmidas/win-glaze-dots/blob/main/mic_suppression_apo.md)
 
-[Lock microphone auto adjusting levels](https://raw.githubusercontent.com/laosmidas/win-glaze-dots/refs/heads/main/ScreenShots_For_Guides/windows_settings/lock_mic_audio.png)
-
 ---
 
 # applications not avaliable in official repos
