@@ -29,7 +29,6 @@ change these flags:
 [`uBlock Origin`](https://addons.mozilla.org/firefox/downloads/file/4328681/ublock_origin-1.59.0.xpi)
 [`LocalCDN`](https://addons.mozilla.org/firefox/downloads/file/4318983/localcdn_fork_of_decentraleyes-2.6.70.xpi)
 [`ClearURLs`](https://addons.mozilla.org/firefox/downloads/file/4064884/clearurls-1.26.1.xpi)
-[`Privacy Badger`](https://addons.mozilla.org/firefox/downloads/file/4321653/privacy_badger17-2024.7.17.xpi)
 [`CanvasBlocker`](https://addons.mozilla.org/firefox/downloads/file/4262820/canvasblocker-1.10.1.xpi)
 [`ScrollAnywhere`](https://addons.mozilla.org/firefox/downloads/file/3938344/scroll_anywhere-9.2.xpi)
 [`Dark Reader`](https://addons.mozilla.org/firefox/downloads/file/4317971/darkreader-4.9.88.xpi)
@@ -51,7 +50,7 @@ change these flags:
 
 # search engine
 
-**search engine**: `(option #1)` - normally slower than startpage
+**search engine**: `(option #1)` - slower than brave
 
 Name:
 `disroot`
@@ -59,7 +58,7 @@ Name:
 URL with %s in place of query
 `https://search.disroot.org/search?q=%s`
 
-**search engine**: `(option #2)` <- usually faster than disroot
+**search engine**: `(option #2)` <- faster than disroot
 
 Name:
 `brave`
