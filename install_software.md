@@ -92,13 +92,9 @@ sudo scoop install games/epic-games-launcher
 ```powershell
 scoop install extras/feishin logitech-omm vesktop obs-studio rustdesk mullvad-browser git everything okular cura telegram keepassxc bitwarden krita shotcut gimp qbittorrent screentogif spotify betaflight-configurator ventoy ccleaner wiztree cpu-z gpu-z winscp filezilla moonlight sunshine pdf-xchange-editor
 ```
+#### Some scripts require sudo.
 ```powershell
-sudo scoop install tailscale
-```
-
-### install optional "nonportable" repo applications
-```powershell
-sudo scoop install nonportable/wireguard-np
+sudo scoop install extras/tailscale
 ```
 
 ### install optional "main" repo applications
@@ -115,12 +111,6 @@ scoop bucket add laosmidas https://github.com/laosmidas/win-glaze-dots
 #### `installed in %ProgramFiles% so UIAccess is available!`
 ```powershell
 scoop install laosmidas/glazewm-np
-```
-
-### install glazewm using scoop
-#### `not installed in %ProgramFiles% so UIAccess is unavailable`
-```powershell
-scoop install laosmidas/glazewm
 ```
 
 ### update all scoop apps
