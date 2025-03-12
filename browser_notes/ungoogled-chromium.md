@@ -2,7 +2,7 @@ notes from repo: https://github.com/laosmidas/win-glaze-dots
 
 # I recommend ungoogled-chromium.
 
-- ## install ungoogled-chromium (prefered)
+- ## install ungoogled-chromium
 ```sh
 scoop install extras/ungoogled-chromium
 ```
