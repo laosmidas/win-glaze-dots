@@ -21,7 +21,7 @@ using Microsoft.Win32;
 
 internal static class WgdotNative
 {
-    const string Version = "native-preview-59";
+    const string Version = "native-preview-60";
     const int WingetPreflightTimeoutMs = 30000;
     const string RepoFullName = "laosmidas/win-glaze-dots";
     const string RepoUrl = "https://github.com/laosmidas/win-glaze-dots.git";
